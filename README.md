@@ -1,4 +1,7 @@
 ## Active Directory SOC Lab with Splunk
+
+<img width="760" height="962" alt="AD-SPLUNK" src="https://github.com/user-attachments/assets/463e1d4b-256d-4147-a22e-6e82ec91fa2c" />
+
 ### Overview
 
 This project demonstrates the design and implementation of a Security Operations Center (SOC) lab focused on Active Directory security monitoring and threat detection using Splunk. The environment simulates a real-world enterprise network consisting of a Windows Server 2022 Domain Controller, Windows client endpoints, and a Splunk SIEM server for centralized log collection, analysis, and alerting.
