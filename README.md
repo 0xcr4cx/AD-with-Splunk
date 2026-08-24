@@ -1,6 +1,7 @@
 ## Active Directory SOC Lab with Splunk
 
-<img width="760" height="961" alt="AD-SPLUNK" src="https://github.com/user-attachments/assets/c23aa791-21cd-4e4b-86e1-c960a652b770" />
+<img width="760" height="961" alt="AD-SPLUNK" src="https://github.com/user-attachments/assets/28088bb9-6eb4-48f4-a1e1-7b990c4cb2bd" />
+
 
 
 ### Overview
@@ -13,7 +14,7 @@ The primary objective of this lab is to gain hands-on experience with Active Dir
 - Windows Server 2022 (Domain Controller)
 - Active Directory Domain Services (AD DS)
 - DNS Server
-- Windows 10/11 Domain-Joined Endpoints
+- Windows 10 Domain-Joined Endpoints
 - Splunk Enterprise
 - Sysmon for Enhanced Endpoint Telemetry
 
