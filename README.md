@@ -1,8 +1,5 @@
 ## Active Directory SOC Lab with Splunk
 
-<img width="760" height="961" alt="AD-SPLUNK" src="https://github.com/user-attachments/assets/28088bb9-6eb4-48f4-a1e1-7b990c4cb2bd" />
-
-
 
 ### Overview
 
